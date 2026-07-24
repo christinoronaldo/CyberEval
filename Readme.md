@@ -1,5 +1,6 @@
 # CyberEval
-Author: Dharshan Kumar
+Author: Dharshan Kumar [Connect with me on LinkedIn](https://www.linkedin.com/in/dharshan-kumar-93a420381/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B85i4hfDBRmWi4wtwFAOgAg%3D%3D)
+
 
 **CyberEval** is an evidence-driven evaluation framework designed to assess the quality of AI-generated cybersecurity analysis.
 
