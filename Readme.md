@@ -1,4 +1,5 @@
 # CyberEval
+Author: Dharshan Kumar
 
 **CyberEval** is an evidence-driven evaluation framework designed to assess the quality of AI-generated cybersecurity analysis.
 
