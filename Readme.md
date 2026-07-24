@@ -222,45 +222,11 @@ It does not replace analyst judgment.
 
 ---
 
-# Repository Structure
-
-```
-CyberEval/
-
-docs/
-framework/
-templates/
-examples/
-diagrams/
-research/
-```
-
-Each directory focuses on a specific aspect of the methodology, including framework documentation, evaluation engines, reusable templates, architectural diagrams, and worked examples.
-
----
-
-# Current Status
-
-CyberEval is currently under active development.
-
-The project includes:
-
-- Evaluation methodology
-- Evidence classification
-- Hallucination taxonomy
-- Confidence calibration
-- Executive reporting methodology
-- Evaluation templates
-- Example evaluations
-
 Additional capabilities planned include:
 
 - Automated evaluation engine
 - Confidence scoring algorithms
-- Graph-based evidence modeling
 - Reviewer dashboard
-- Dataset generation
-- Benchmark suite
 
 ---
 
